@@ -2,6 +2,8 @@
 
 Parse and convert distributed tracing headers in the browser.
 
+**Live:** https://bgpat.github.io/traceid-analyzer/
+
 Supported formats:
 
 - W3C Trace Context (`traceparent` / `tracestate`)
